@@ -13,7 +13,7 @@ public class IllegalsCommand extends SimpleSubCommand {
 		super(parent, "illegals|illegal|i");
 
 		setMinArguments(0);
-		setUsage("&fGive 64 bedrock, command blocks and barriers to player.");
+		setUsage("&fGive 64 of each illegal block.");
 
 	}
 

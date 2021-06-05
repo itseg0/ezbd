@@ -14,6 +14,6 @@ public class EZBDCommandGroup extends SimpleCommandGroup {
 
 	@Override
 	protected String getCredits() {
-		return "Add &c&lEg0" + "#" + "&c&l1337 " + "&fon Discord for more information or help.";
+		return "Please do /ezbd ? for help.\n   Add &c&lEg0" + "#" + "&c&l1337 " + "&fon Discord for more information or help.";
 	}
 }
